@@ -19,5 +19,10 @@ This repository showcases my professional certifications and verified credential
 | AI for App Building| Jul 2026 | [View Credential](https://coursera.org/share/3fd266fa7c263f8149e380438409a2ba) |
 
 
-
-
+## Product School
+| Certification | Issued | Credential |
+|---------------|--------|------------|
+| Product Launch | Jul 2024 | 
+| Product Growth | Jan 2024 |
+| Product Strategy| Jan 2024 |
+| Product Roadmapping | Dec 2023 | 
