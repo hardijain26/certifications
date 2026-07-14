@@ -2,6 +2,9 @@
 
 This repository showcases my professional certifications and verified credentials.
 
+</> Markdown
+
+
 ## Anthropic
 
 | Certification | Issued | Credential |
